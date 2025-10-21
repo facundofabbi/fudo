@@ -134,7 +134,7 @@ Este proyecto es una **API REST en Ruby usando Rack**, sin Rails, que permite au
 
 ---
 
-## 🏗 Ejecución del proyecto
+## Ejecución del proyecto
 
 ### 1️⃣ Instalar dependencias
 
@@ -195,3 +195,4 @@ rackup -s thin -p 9292
 
 **Nombre:** Facundo Tomas Fabbi
 **Email:** facundofabbi@hotmail.com
+
