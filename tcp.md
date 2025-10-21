@@ -1,0 +1,1 @@
+TCP (Transmission Control Protocol) es un protocolo que asegura que los datos enviados entre computadoras lleguen completos y en orden. Forma parte de la capa de transporte en el modelo OSI, que organiza cómo se comunican los dispositivos en una red. Es clave para navegar, enviar correos y transferir información confiable.

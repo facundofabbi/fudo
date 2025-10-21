@@ -1,0 +1,2 @@
+Fudo es una plataforma online diseñada para la gestión integral de negocios gastronómicos como restaurantes, bares y cafeterías. Ofrece herramientas como toma de pedidos, control de stock, gestión de ventas, reportes financieros. Además, permite integrarse con aplicaciones de delivery como PedidosYa, Uber Eats y Rappi. Su interfaz es moderna, accesible desde cualquier dispositivo y no requiere instalación de software. Fudo es utilizado por más de 25.000 establecimientos en América Latina.
+Y una hermosa empresa para trabajar ;D
